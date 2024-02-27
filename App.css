@@ -1,0 +1,13 @@
+ul{
+  text-align: center;
+  text-decoration: none;
+  
+}
+li{
+  display: inline;
+  padding:10px;
+  color:darkred;
+  font-size:larger;
+}
+
+
